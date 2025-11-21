@@ -1,0 +1,256 @@
+2025-11-14 21:36:22,828 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-11-14 21:36:22,839 INFO o.a.j.JMeter: Loading user properties from: /Users/vntanni/Downloads/apache-jmeter-5.6.3/bin/user.properties
+2025-11-14 21:36:22,839 INFO o.a.j.JMeter: Loading system properties from: /Users/vntanni/Downloads/apache-jmeter-5.6.3/bin/system.properties
+2025-11-14 21:36:22,843 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-11-14 21:36:22,843 INFO o.a.j.JMeter: Version 5.6.3
+2025-11-14 21:36:22,843 INFO o.a.j.JMeter: java.version=25.0.1
+2025-11-14 21:36:22,843 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-11-14 21:36:22,843 INFO o.a.j.JMeter: os.name=Mac OS X
+2025-11-14 21:36:22,843 INFO o.a.j.JMeter: os.arch=aarch64
+2025-11-14 21:36:22,843 INFO o.a.j.JMeter: os.version=15.6
+2025-11-14 21:36:22,844 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-11-14 21:36:22,844 INFO o.a.j.JMeter: java.awt.headless=true
+2025-11-14 21:36:22,844 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-11-14 21:36:22,844 INFO o.a.j.JMeter: Available Processors =8
+2025-11-14 21:36:22,851 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-11-14 21:36:22,852 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-11-14 21:36:22,852 INFO o.a.j.JMeter: JMeterHome=/Users/vntanni/Downloads/apache-jmeter-5.6.3
+2025-11-14 21:36:22,852 INFO o.a.j.JMeter: user.dir  =/Users/vntanni/Documents/pgats/ppp-turma2
+2025-11-14 21:36:22,852 INFO o.a.j.JMeter: PWD       =/Users/vntanni/Documents/pgats/ppp-turma2
+2025-11-14 21:36:22,859 INFO o.a.j.JMeter: IP: 192.168.127.57 Name: M11597-40ANDRENICOLAU FullName: 192.168.127.57
+2025-11-14 21:36:22,866 INFO o.a.j.s.FileServer: Default base='/Users/vntanni/Documents/pgats/ppp-turma2'
+2025-11-14 21:36:22,867 INFO o.a.j.s.FileServer: Set new base='/Users/vntanni/Documents/pgats/ppp-turma2/tests/jmeter'
+2025-11-14 21:36:22,979 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-11-14 21:36:22,991 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-11-14 21:36:22,992 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-11-14 21:36:22,993 INFO o.a.j.s.SaveService: Loading file: tests/jmeter/Teste de Performance de Fuxo de instrutores.jmx
+2025-11-14 21:36:23,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-11-14 21:36:23,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-11-14 21:36:23,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-11-14 21:36:23,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-11-14 21:36:23,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-11-14 21:36:23,017 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-11-14 21:36:23,037 INFO o.a.j.JMeter: Creating summariser <summary>
+2025-11-14 21:36:23,043 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-11-14 21:36:23,043 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-11-14 21:36:23,043 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-11-14 21:36:23,045 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-11-14 21:36:23,045 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-11-14 21:36:23,070 INFO o.a.j.r.ClassFinder: Will scan jar /Users/vntanni/Downloads/apache-jmeter-5.6.3/lib/ext/jmeter-plugins-graphs-basic-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-11-14 21:36:23,072 INFO o.a.j.r.ClassFinder: Will scan jar /Users/vntanni/Downloads/apache-jmeter-5.6.3/lib/ext/jmeter-plugins-manager-1.11.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-11-14 21:36:23,107 INFO o.a.j.r.ClassFinder: Will scan jar /Users/vntanni/Downloads/apache-jmeter-5.6.3/lib/ext/jmeter-plugins-graphs-composite-2.0.jar with filter ExtendsClassFilter [parents=[interface org.apache.jmeter.functions.Function], inner=false, contains=null, notContains=null]. Consider exposing JMeter plugins via META-INF/services, and add JMeter-Skip-Class-Scanning=true manifest attribute so JMeter can skip classfile scanning
+2025-11-14 21:36:23,113 INFO o.a.j.JMeter: Running test (1763166983113)
+2025-11-14 21:36:23,121 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Instrutores cadastrando progresso dos alunos
+2025-11-14 21:36:23,121 INFO o.a.j.e.StandardJMeterEngine: Starting 50 threads for group Instrutores cadastrando progresso dos alunos.
+2025-11-14 21:36:23,121 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-11-14 21:36:23,121 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=50 ramp-up=1 delayedStart=false
+2025-11-14 21:36:23,125 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-1
+2025-11-14 21:36:23,133 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-11-14 21:36:23,133 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = M11597-40ANDRENICOLAU
+2025-11-14 21:36:23,133 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-11-14 21:36:23,136 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-11-14 21:36:23,136 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-11-14 21:36:23,136 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-11-14 21:36:23,136 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-11-14 21:36:23,136 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-11-14 21:36:23,147 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-2
+2025-11-14 21:36:23,168 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-3
+2025-11-14 21:36:23,181 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,181 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,181 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,182 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-3
+2025-11-14 21:36:23,182 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-2
+2025-11-14 21:36:23,182 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-1
+2025-11-14 21:36:23,182 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-3
+2025-11-14 21:36:23,182 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-2
+2025-11-14 21:36:23,182 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-1
+2025-11-14 21:36:23,188 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-4
+2025-11-14 21:36:23,190 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,190 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-4
+2025-11-14 21:36:23,190 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-4
+2025-11-14 21:36:23,207 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-5
+2025-11-14 21:36:23,209 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,209 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-5
+2025-11-14 21:36:23,209 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-5
+2025-11-14 21:36:23,227 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-6
+2025-11-14 21:36:23,228 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,228 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-6
+2025-11-14 21:36:23,228 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-6
+2025-11-14 21:36:23,247 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-7
+2025-11-14 21:36:23,248 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,249 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-7
+2025-11-14 21:36:23,249 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-7
+2025-11-14 21:36:23,265 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-8
+2025-11-14 21:36:23,267 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,267 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-8
+2025-11-14 21:36:23,267 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-8
+2025-11-14 21:36:23,282 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-9
+2025-11-14 21:36:23,283 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,284 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-9
+2025-11-14 21:36:23,284 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-9
+2025-11-14 21:36:23,306 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-10
+2025-11-14 21:36:23,308 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,309 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-10
+2025-11-14 21:36:23,309 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-10
+2025-11-14 21:36:23,327 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-11
+2025-11-14 21:36:23,328 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,329 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-11
+2025-11-14 21:36:23,329 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-11
+2025-11-14 21:36:23,347 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-12
+2025-11-14 21:36:23,348 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,349 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-12
+2025-11-14 21:36:23,349 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-12
+2025-11-14 21:36:23,366 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-13
+2025-11-14 21:36:23,368 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,369 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-13
+2025-11-14 21:36:23,369 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-13
+2025-11-14 21:36:23,386 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-14
+2025-11-14 21:36:23,388 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,388 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-14
+2025-11-14 21:36:23,388 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-14
+2025-11-14 21:36:23,406 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-15
+2025-11-14 21:36:23,409 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,409 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-15
+2025-11-14 21:36:23,409 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-15
+2025-11-14 21:36:23,426 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-16
+2025-11-14 21:36:23,428 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,428 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-16
+2025-11-14 21:36:23,428 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-16
+2025-11-14 21:36:23,445 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-17
+2025-11-14 21:36:23,447 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,447 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-17
+2025-11-14 21:36:23,447 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-17
+2025-11-14 21:36:23,465 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-18
+2025-11-14 21:36:23,466 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,466 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-18
+2025-11-14 21:36:23,466 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-18
+2025-11-14 21:36:23,484 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-19
+2025-11-14 21:36:23,485 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,485 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-19
+2025-11-14 21:36:23,485 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-19
+2025-11-14 21:36:23,505 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-20
+2025-11-14 21:36:23,507 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,507 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-20
+2025-11-14 21:36:23,507 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-20
+2025-11-14 21:36:23,527 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-21
+2025-11-14 21:36:23,531 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,531 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-21
+2025-11-14 21:36:23,531 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-21
+2025-11-14 21:36:23,546 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-22
+2025-11-14 21:36:23,549 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,549 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-22
+2025-11-14 21:36:23,549 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-22
+2025-11-14 21:36:23,566 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-23
+2025-11-14 21:36:23,569 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,569 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-23
+2025-11-14 21:36:23,569 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-23
+2025-11-14 21:36:23,582 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-24
+2025-11-14 21:36:23,583 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,584 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-24
+2025-11-14 21:36:23,584 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-24
+2025-11-14 21:36:23,606 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-25
+2025-11-14 21:36:23,608 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,609 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-25
+2025-11-14 21:36:23,609 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-25
+2025-11-14 21:36:23,625 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-26
+2025-11-14 21:36:23,627 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,627 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-26
+2025-11-14 21:36:23,627 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-26
+2025-11-14 21:36:23,647 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-27
+2025-11-14 21:36:23,649 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,649 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-27
+2025-11-14 21:36:23,649 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-27
+2025-11-14 21:36:23,666 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-28
+2025-11-14 21:36:23,667 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,668 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-28
+2025-11-14 21:36:23,668 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-28
+2025-11-14 21:36:23,682 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-29
+2025-11-14 21:36:23,683 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,684 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-29
+2025-11-14 21:36:23,684 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-29
+2025-11-14 21:36:23,706 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-30
+2025-11-14 21:36:23,708 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,709 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-30
+2025-11-14 21:36:23,709 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-30
+2025-11-14 21:36:23,726 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-31
+2025-11-14 21:36:23,731 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,731 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-31
+2025-11-14 21:36:23,731 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-31
+2025-11-14 21:36:23,747 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-32
+2025-11-14 21:36:23,752 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,752 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-32
+2025-11-14 21:36:23,753 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-32
+2025-11-14 21:36:23,767 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-33
+2025-11-14 21:36:23,772 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,772 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-33
+2025-11-14 21:36:23,773 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-33
+2025-11-14 21:36:23,786 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-34
+2025-11-14 21:36:23,792 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,793 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-34
+2025-11-14 21:36:23,793 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-34
+2025-11-14 21:36:23,806 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-35
+2025-11-14 21:36:23,810 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,811 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-35
+2025-11-14 21:36:23,811 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-35
+2025-11-14 21:36:23,826 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-36
+2025-11-14 21:36:23,828 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,829 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-36
+2025-11-14 21:36:23,829 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-36
+2025-11-14 21:36:23,846 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-37
+2025-11-14 21:36:23,851 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,851 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-37
+2025-11-14 21:36:23,852 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-37
+2025-11-14 21:36:23,865 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-38
+2025-11-14 21:36:23,870 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,870 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-38
+2025-11-14 21:36:23,870 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-38
+2025-11-14 21:36:23,882 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-39
+2025-11-14 21:36:23,884 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,884 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-39
+2025-11-14 21:36:23,884 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-39
+2025-11-14 21:36:23,905 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-40
+2025-11-14 21:36:23,907 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,907 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-40
+2025-11-14 21:36:23,907 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-40
+2025-11-14 21:36:23,926 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-41
+2025-11-14 21:36:23,928 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,928 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-41
+2025-11-14 21:36:23,928 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-41
+2025-11-14 21:36:23,946 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-42
+2025-11-14 21:36:23,947 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,948 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-42
+2025-11-14 21:36:23,948 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-42
+2025-11-14 21:36:23,966 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-43
+2025-11-14 21:36:23,968 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,968 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-43
+2025-11-14 21:36:23,968 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-43
+2025-11-14 21:36:23,987 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-44
+2025-11-14 21:36:23,989 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:23,989 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-44
+2025-11-14 21:36:23,989 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-44
+2025-11-14 21:36:24,005 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-45
+2025-11-14 21:36:24,007 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:24,007 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-45
+2025-11-14 21:36:24,007 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-45
+2025-11-14 21:36:24,022 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-46
+2025-11-14 21:36:24,024 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:24,024 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-46
+2025-11-14 21:36:24,024 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-46
+2025-11-14 21:36:24,046 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-47
+2025-11-14 21:36:24,048 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:24,048 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-47
+2025-11-14 21:36:24,049 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-47
+2025-11-14 21:36:24,065 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-48
+2025-11-14 21:36:24,067 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:24,068 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-48
+2025-11-14 21:36:24,068 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-48
+2025-11-14 21:36:24,083 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-49
+2025-11-14 21:36:24,086 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:24,087 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-49
+2025-11-14 21:36:24,087 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-49
+2025-11-14 21:36:24,106 INFO o.a.j.t.JMeterThread: Thread started: Instrutores cadastrando progresso dos alunos 1-50
+2025-11-14 21:36:24,110 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor do Token, message: json can not be null or empty
+2025-11-14 21:36:24,111 INFO o.a.j.t.JMeterThread: Thread is done: Instrutores cadastrando progresso dos alunos 1-50
+2025-11-14 21:36:24,111 INFO o.a.j.t.JMeterThread: Thread finished: Instrutores cadastrando progresso dos alunos 1-50
+2025-11-14 21:36:24,111 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-11-14 21:36:24,114 INFO o.a.j.r.Summariser: summary =    150 in 00:00:01 =  150.2/s Avg:     0 Min:     0 Max:    10 Err:   150 (100.00%)

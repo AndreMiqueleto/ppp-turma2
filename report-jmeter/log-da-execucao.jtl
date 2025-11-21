@@ -1,0 +1,451 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1763166983159,10,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,3,3,http://localhost/instructors/register,0,0,10
+1763166983159,10,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,3,3,http://localhost/instructors/register,0,0,10
+1763166983168,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,3,3,http://localhost/instructors/register,0,0,1
+1763166983181,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-2,text,false,,815,0,3,3,null,0,0,0
+1763166983181,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-1,text,false,,815,0,3,3,null,0,0,0
+1763166983181,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-3,text,false,,815,0,3,3,null,0,0,0
+1763166983181,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-2,text,false,,815,0,3,3,null,0,0,0
+1763166983182,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-3,text,false,,815,0,3,3,null,0,0,0
+1763166983182,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-1,text,false,,815,0,3,3,null,0,0,0
+1763166983188,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983190,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-4,text,false,,815,0,1,1,null,0,0,0
+1763166983190,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-4,text,false,,815,0,1,1,null,0,0,0
+1763166983207,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983209,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-5,text,false,,815,0,1,1,null,0,0,0
+1763166983209,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-5,text,false,,815,0,1,1,null,0,0,0
+1763166983227,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983228,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-6,text,false,,815,0,1,1,null,0,0,0
+1763166983228,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-6,text,false,,815,0,1,1,null,0,0,0
+1763166983247,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983248,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-7,text,false,,815,0,1,1,null,0,0,0
+1763166983249,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-7,text,false,,815,0,1,1,null,0,0,0
+1763166983266,0,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,0
+1763166983267,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-8,text,false,,815,0,1,1,null,0,0,0
+1763166983267,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-8,text,false,,815,0,1,1,null,0,0,0
+1763166983282,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983283,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-9,text,false,,815,0,1,1,null,0,0,0
+1763166983284,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-9,text,false,,815,0,1,1,null,0,0,0
+1763166983307,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983308,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-10,text,false,,815,0,1,1,null,0,0,0
+1763166983309,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-10,text,false,,815,0,1,1,null,0,0,0
+1763166983327,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983328,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-11,text,false,,815,0,1,1,null,0,0,0
+1763166983329,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-11,text,false,,815,0,1,1,null,0,0,0
+1763166983347,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983348,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-12,text,false,,815,0,1,1,null,0,0,0
+1763166983349,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-12,text,false,,815,0,1,1,null,0,0,0
+1763166983367,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,0
+1763166983368,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-13,text,false,,815,0,1,1,null,0,0,0
+1763166983368,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-13,text,false,,815,0,1,1,null,0,0,0
+1763166983387,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983388,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-14,text,false,,815,0,1,1,null,0,0,0
+1763166983388,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-14,text,false,,815,0,1,1,null,0,0,0
+1763166983407,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983409,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-15,text,false,,815,0,1,1,null,0,0,0
+1763166983409,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-15,text,false,,815,0,1,1,null,0,0,0
+1763166983427,0,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,0
+1763166983428,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-16,text,false,,815,0,1,1,null,0,0,0
+1763166983428,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-16,text,false,,815,0,1,1,null,0,0,0
+1763166983446,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983447,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-17,text,false,,815,0,1,1,null,0,0,0
+1763166983447,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-17,text,false,,815,0,1,1,null,0,0,0
+1763166983465,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983466,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-18,text,false,,815,0,1,1,null,0,0,0
+1763166983466,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-18,text,false,,815,0,1,1,null,0,0,0
+1763166983484,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983485,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-19,text,false,,815,0,1,1,null,0,0,0
+1763166983485,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-19,text,false,,815,0,1,1,null,0,0,0
+1763166983505,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983507,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-20,text,false,,815,0,1,1,null,0,0,0
+1763166983507,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-20,text,false,,815,0,1,1,null,0,0,0
+1763166983528,2,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,2
+1763166983531,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-21,text,false,,815,0,1,1,null,0,0,0
+1763166983531,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-21,text,false,,815,0,1,1,null,0,0,0
+1763166983547,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983549,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-22,text,false,,815,0,1,1,null,0,0,0
+1763166983549,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-22,text,false,,815,0,1,1,null,0,0,0
+1763166983567,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983569,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-23,text,false,,815,0,1,1,null,0,0,0
+1763166983569,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-23,text,false,,815,0,1,1,null,0,0,0
+1763166983582,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983583,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-24,text,false,,815,0,1,1,null,0,0,0
+1763166983584,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-24,text,false,,815,0,1,1,null,0,0,0
+1763166983607,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983608,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-25,text,false,,815,0,1,1,null,0,0,0
+1763166983608,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-25,text,false,,815,0,1,1,null,0,0,0
+1763166983625,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983627,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-26,text,false,,815,0,1,1,null,0,0,0
+1763166983627,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-26,text,false,,815,0,1,1,null,0,0,0
+1763166983647,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983649,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-27,text,false,,815,0,1,1,null,0,0,0
+1763166983649,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-27,text,false,,815,0,1,1,null,0,0,0
+1763166983666,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983667,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-28,text,false,,815,0,1,1,null,0,0,0
+1763166983668,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-28,text,false,,815,0,1,1,null,0,0,0
+1763166983682,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983683,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-29,text,false,,815,0,1,1,null,0,0,0
+1763166983684,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-29,text,false,,815,0,1,1,null,0,0,0
+1763166983707,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983708,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-30,text,false,,815,0,1,1,null,0,0,0
+1763166983708,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-30,text,false,,815,0,1,1,null,0,0,0
+1763166983728,2,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,2
+1763166983731,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-31,text,false,,815,0,1,1,null,0,0,0
+1763166983731,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-31,text,false,,815,0,1,1,null,0,0,0
+1763166983749,2,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,2
+1763166983752,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-32,text,false,,815,0,1,1,null,0,0,0
+1763166983752,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-32,text,false,,815,0,1,1,null,0,0,0
+1763166983769,2,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,2
+1763166983772,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-33,text,false,,815,0,1,1,null,0,0,0
+1763166983772,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-33,text,false,,815,0,1,1,null,0,0,0
+1763166983788,3,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,3
+1763166983792,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-34,text,false,,815,0,1,1,null,0,0,0
+1763166983793,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-34,text,false,,815,0,1,1,null,0,0,0
+1763166983808,2,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,2
+1763166983810,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-35,text,false,,815,0,1,1,null,0,0,0
+1763166983811,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-35,text,false,,815,0,1,1,null,0,0,0
+1763166983827,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983828,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-36,text,false,,815,0,1,1,null,0,0,0
+1763166983829,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-36,text,false,,815,0,1,1,null,0,0,0
+1763166983848,2,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983851,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-37,text,false,,815,0,1,1,null,0,0,0
+1763166983851,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-37,text,false,,815,0,1,1,null,0,0,0
+1763166983867,2,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983869,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-38,text,false,,815,0,1,1,null,0,0,0
+1763166983870,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-38,text,false,,815,0,1,1,null,0,0,0
+1763166983883,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983884,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-39,text,false,,815,0,1,1,null,0,0,0
+1763166983884,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-39,text,false,,815,0,1,1,null,0,0,0
+1763166983906,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983907,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-40,text,false,,815,0,1,1,null,0,0,0
+1763166983907,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-40,text,false,,815,0,1,1,null,0,0,0
+1763166983927,0,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,0
+1763166983928,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-41,text,false,,815,0,1,1,null,0,0,0
+1763166983928,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-41,text,false,,815,0,1,1,null,0,0,0
+1763166983947,0,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,0
+1763166983947,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-42,text,false,,815,0,1,1,null,0,0,0
+1763166983948,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-42,text,false,,815,0,1,1,null,0,0,0
+1763166983967,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983968,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-43,text,false,,815,0,1,1,null,0,0,0
+1763166983968,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-43,text,false,,815,0,1,1,null,0,0,0
+1763166983987,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166983989,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-44,text,false,,815,0,1,1,null,0,0,0
+1763166983989,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-44,text,false,,815,0,1,1,null,0,0,0
+1763166984006,0,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,0
+1763166984007,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-45,text,false,,815,0,1,1,null,0,0,0
+1763166984007,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-45,text,false,,815,0,1,1,null,0,0,0
+1763166984023,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166984024,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-46,text,false,,815,0,1,1,null,0,0,0
+1763166984024,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-46,text,false,,815,0,1,1,null,0,0,0
+1763166984047,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166984048,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-47,text,false,,815,0,1,1,null,0,0,0
+1763166984048,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-47,text,false,,815,0,1,1,null,0,0,0
+1763166984066,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166984067,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-48,text,false,,815,0,1,1,null,0,0,0
+1763166984068,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-48,text,false,,815,0,1,1,null,0,0,0
+1763166984085,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166984086,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-49,text,false,,815,0,1,1,null,0,0,0
+1763166984087,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-49,text,false,,815,0,1,1,null,0,0,0
+1763166984108,1,Registro de um Novo Instrutor,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:80 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused",Instrutores cadastrando progresso dos alunos 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[201                                                                  ]]]
+
+/",2580,0,1,1,http://localhost/instructors/register,0,0,1
+1763166984110,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-50,text,false,,815,0,1,1,null,0,0,0
+1763166984111,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '}',Instrutores cadastrando progresso dos alunos 1-50,text,false,,815,0,1,1,null,0,0,0
